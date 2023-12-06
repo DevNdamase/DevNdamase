@@ -1,10 +1,12 @@
+<img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="images/bg-image-1.png">
+
 # Hello, I'm Sibongiseni Ndamase 👋
 
-I am a self-taught programmer who is passionate about coding and learning new technologies. 
+I am a self-taught programmer who is passionate about coding and learning new technologies.
 
 Recently, I completed the 'Responsive Web Design' and 'JavaScript Algorithms and Data Structures' certifications on freeCodeCamp.
 
-
+---
 
 ## 🚀 Skills and Technologies:
 
@@ -16,32 +18,7 @@ Recently, I completed the 'Responsive Web Design' and 'JavaScript Algorithms and
 
 -   JavaScript
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 <!--
 **DevNdamase/DevNdamase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
