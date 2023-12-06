@@ -1,4 +1,43 @@
-### Hi there 👋
+# Hello, I'm Sibongiseni Ndamase 👋
+
+I'm a self-taught programmer passionate about coding and learning new technologies. I recently completed the 'Responsive Web Design' and 'JavaScript Algorithms and Data Structures' certifications on freeCodeCamp.
+
+## 🚀 Skills and Technologies:
+
+#### Responsive Web Design
+
+-   HTML5, CSS3
+
+#### Algorithms and Data Structures
+
+-   JavaScript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **DevNdamase/DevNdamase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
