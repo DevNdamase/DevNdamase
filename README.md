@@ -1,6 +1,10 @@
 # Hello, I'm Sibongiseni Ndamase 👋
 
-I'm a self-taught programmer passionate about coding and learning new technologies. I recently completed the 'Responsive Web Design' and 'JavaScript Algorithms and Data Structures' certifications on freeCodeCamp.
+I am a self-taught programmer who is passionate about coding and learning new technologies. 
+
+Recently, I completed the 'Responsive Web Design' and 'JavaScript Algorithms and Data Structures' certifications on freeCodeCamp.
+
+
 
 ## 🚀 Skills and Technologies:
 
